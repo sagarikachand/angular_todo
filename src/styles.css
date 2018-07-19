@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    text-align: center;
+}
+
+ul,li{list-style: none;margin:0;padding:0;}
+a{text-decoration: mone}
+input{
+    border-style: none;
+}
